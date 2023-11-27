@@ -9,4 +9,4 @@ This simulation starts with a big bang then converts into solar system.
 
 
 
-<img width="636" alt="Screenshot 2023-11-28 at 4 27 15 AM" src="https://github.com/syedshanzeb/OpenGL-Big-Bang-and-Solar-System-Simulation/assets/152086524/24fa6ba8-4349-40d4-a872-7590cc10cf02">
+![Screenshot 2023-11-28 at 4 29 36 AM](https://github.com/syedshanzeb/OpenGL-Big-Bang-and-Solar-System-Simulation/assets/152086524/40ae5287-04e2-4466-a1c9-0f86a603b2a4)
